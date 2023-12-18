@@ -21,6 +21,12 @@ from PIL import Image
 # Page layout
 st.set_page_config(page_title="Ketut Tomy Suhari", page_icon="🏯", layout="wide")
 
+ if st.button("Kembali", key="back_button"):
+        st.balloons()  # Efek tambahan saat tombol diklik
+        st.write("Anda telah kembali!")
+        # Redirect ke halaman web saat tombol diklik
+        st.markdown("[Buka halaman](https://ketuttomysuhari.github.io/)")
+
 # Header
 st.header("Om Swastyastu, ᬑᬁᬲ᭄ᬯᬲ᭄ᬢ᭄ᬬᬲ᭄ᬢᬸ")
 st.subheader("Selamat Datang di Halaman Lab Project")
