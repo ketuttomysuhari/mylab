@@ -15,7 +15,7 @@ from PIL import Image
 
 # Contoh data sebaran penduduk di daerah Rohingya
 population_data = [
-    {'nama_tempat': 'Indonesia', 'latitude': 5.1956842, 'longitude': 97.1020099, 'population': 1684000},
+    {'nama_tempat': 'Indonesia', 'latitude': 5.1956842, 'longitude': 97.1020099, 'population': 1684},
     {'nama_tempat': 'Bangladesh', 'latitude': 21.4291642, 'longitude': 91.9599342, 'population':800000},
     {'nama_tempat': 'Saudi Arabia', 'latitude': 25.9643539, 'longitude': 43.3780246, 'population': 470000},
     {'nama_tempat': 'Pakistan', 'latitude': 24.8818273, 'longitude': 66.9936215, 'population': 500000},
