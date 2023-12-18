@@ -28,7 +28,7 @@ st.set_page_config(page_title="Ketut Tomy Suhari", page_icon="🏯", layout="wid
         st.markdown("[Buka halaman](https://ketuttomysuhari.github.io/)")
 
 # Header
-st.header("Om Swastyastu, ᬑᬁᬲ᭄ᬯᬲ᭄ᬢ᭄ᬬᬲ᭄ᬢᬸ")
+st.header("Om Swastyastu")
 st.subheader("Selamat Datang di Halaman Lab Project")
 
 col1, col2 = st.columns(2)
