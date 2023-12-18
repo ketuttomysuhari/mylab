@@ -22,7 +22,7 @@ from PIL import Image
 st.set_page_config(page_title="Ketut Tomy Suhari", page_icon="🏯", layout="wide")
 
 
-st.markdown("[Buka halaman](https://ketuttomysuhari.github.io/)")
+st.markdown("[Kembali ke Profil](https://ketuttomysuhari.github.io/)")
 
 # Header
 st.header("Om Swastyastu")
